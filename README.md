@@ -34,10 +34,6 @@ This project analyzes Blinkit sales data to extract insights, identify trends, a
 - Adding Power BI visualizations for advanced interactivity.  
 - Automating some data processes using Python.  
 
-## Connect With Me 🔗  
-- [LinkedIn Profile](#)  
-- [GitHub Profile](#)  
-
 
 
 ![Dashboard](dashboard_screenshot.png)
